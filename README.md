@@ -5,3 +5,19 @@
 ---
 
 ___N.B:___ _README files will be updated daily. I'll write about specific topics for better understanding._
+
+## 🌙 Date:  08 April, Wednesday
+🔥 Beginner JavaScript 🔥 
+⚡ I've gone through these:-
+   - ✔ Running and Loading JS
+   - ✔ Variables and Statements
+   - ✔ Code Quality Tooling with Prettier and ESLint
+   - ✔ Types Intro
+   - ✔ Types - Strings
+   - ✔ Types - Number
+   - ✔ Types - Object
+   - ✔ Types - Null and Undefined
+   - ✔ Types - Boolean and Equality
+   
+   > Now Learning about  `Functions`.
+
