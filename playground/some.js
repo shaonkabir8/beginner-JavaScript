@@ -3,3 +3,6 @@ console.log('im in another file');
 
 const age = 100;
 console.log(p, age);
+
+// Checking Esliint-Prettier :)
+// Hurray !! It works!
