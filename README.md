@@ -21,3 +21,26 @@ ___N.B:___ _README files will be updated daily. I'll write about specific topics
    
    > Now Learning about  `Functions`.
 
+## 🌙 Date:  08 - 09 April, Thursday, Friday
+🔥 __Beginner JavaScript__ 🔥 
+ 
+⚡ I've gone through these:-
+- 🍦 Functions
+   -  ✔ Functions - Built in
+   -  ✔ Functions - Custom
+   -  ✔ Functions - parameters and arguments
+   -  ✔ Function declearation
+- 🐛 Debugging
+- ✔ Scope
+- ✔ Hoisting
+- ✔ closures
+- 🔥 DOM
+   -  ✔ DOM Introduction
+   -  ✔ DOM - Select Elements
+   -  ✔ DOM - Element properties..
+   -  ✔ DOM - working with classes
+   -  ✔ DOM - custom data-attribute
+   -  ✔ DOM - creating HTML
+   -  ✔ DOM - HTML to Strings
+   -  ✔ DOM - Traversing and Removing Nodes
+   -  ✔ DOM - CARDIO
