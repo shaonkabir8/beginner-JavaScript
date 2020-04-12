@@ -43,12 +43,42 @@ const isCool = name => {
 isCool('Shaon')
 
 
+/* 
+  🔥 Lexical Scoping
+
+  In JavaScript, A function will execute the variables, methods where It is Defined not Called!
 
 
 
+*/
+
+// 🔥 Clear the previous console... 
+console.clear()
+
+
+const dogName = `Flufykings`;
+
+// This function will only print the dog name.
+// It'll execute dogName as 'Flufykings'
+// Because this function is defined here and currently `Flufykings` is available as dogName variable.
+function printDogName() {
+  console.log(`Dog name is : ${dogName}`);
+}
+
+// ! What's going on here!
+// ! In this function, a new variable is defined named 'dogName'.
+// ! This variable is totally different scoped. It isn't updating the previous variables value.
+// ! After that, `printDogName` function will be executed with It's(printDogName) value.
+// ! Beause, printDogName function is just called here not Defined!! it's main point.
+function updateDogName() {
+  const dogName = 'Marry Popins';
+  printDogName();
+}
+
+updateDogName()
 
 
 
-
+// Refference: Beginner JavaScript (Class- 17) of @wesbos
 
 
