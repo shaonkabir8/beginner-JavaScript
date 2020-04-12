@@ -31,8 +31,8 @@ ___N.B:___ _README files will be updated daily. I'll write about specific topics
    -  ✔ Functions - parameters and arguments
    -  ✔ Function declearation
 - 🐛 Debugging
-- ✔ Scope
-- ✔ Hoisting
+- ✔ [Scope](playground/scope.html)
+- ✔ [Hoisting](playground/hoisting.js)
 - ✔ closures
 - 🔥 DOM
    -  ✔ DOM Introduction
