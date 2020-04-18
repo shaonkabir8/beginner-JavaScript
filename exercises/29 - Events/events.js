@@ -60,3 +60,4 @@ window.addEventListener('click', e => {
   console.log(`YOU CLICKED ON: ${e.target.localName} 🔥`)
 })
 
+
